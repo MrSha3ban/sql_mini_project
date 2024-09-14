@@ -132,15 +132,15 @@ Create the following tables with appropriate data types and constraints:
 
 1. Clone the repository.
 2. Import the SQL scripts in the following order:
-    - `01_create_database.sql`
-    - `02_create_tables.sql`
-    - `03_insert_sample_data.sql`
-    - `04_basic_queries.sql`
-    - `05_advanced_queries.sql`
-    - `06_join_queries.sql`
-    - `07_subqueries_set_operations.sql`
-    - `08_functions_stored_procedures.sql`
-    - `09_aggregate_functions_grouping.sql`
+    - [`01_create_database.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/1_Database%20Setup.sql)
+    - [`02_create_tables.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/2_Table%20Creation.sql)
+    - [`03_insert_sample_data.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/3_Insert%20Sample%20Data.sql)
+    - [`04_basic_queries.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/4_Basic%20Queries.sql)
+    - [`05_advanced_queries.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/5_Advanced%20Queries.sql)
+    - [`06_join_queries.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/6_Join%20Queries.sql)
+    - [`07_subqueries_set_operations.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/7_Subqueries%20and%20Set%20Operations.sql)
+    - [`08_functions_stored_procedures.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/8_Functions%20and%20Stored%20Procedures.sql)
+    - [`09_aggregate_functions_grouping.sql`](https://github.com/MrSha3ban/sql_mini_project/blob/main/9_aggregate_functions_grouping.sql)
 
 3. Run the provided SQL queries to perform various operations.
 
